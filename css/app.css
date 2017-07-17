@@ -1,0 +1,13 @@
+<style type = "text/css">
+        .login-form{
+            max-width:300px;
+            margin: 0 auto;
+        }
+#exaampleInputEmail{
+            margin-bottom: -1px;
+            border-radius:8px;
+        }
+        #exampleInputPassword{
+        border-radius:8px;
+        }
+        </style>
